@@ -17,5 +17,5 @@ Today I started the #90DaysOfDevOps challenge with the #TrainWithShubham communi
 3. **Importance of DevOps:** ...
 
 ## Resources
-- [DevOps Roadmap Video](link-to-video)
+- [DevOps Roadmap Video](https://www.youtube.com/watch?v=g_QHuGq3E2Y)
 
