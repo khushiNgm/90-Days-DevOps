@@ -1,4 +1,4 @@
-# Day 1 - DevOps TWS
+# Day 2 - DevOps TWS
 
 # Introduction
 Today,In #90DaysOfDevOps challenge i learned and practiced some basic Linux commands which are essential for navigating and managing directories.
@@ -33,5 +33,6 @@ mkdir -p A/B/C/D → Create nested directories in one go
 
 📖 I followed this YouTube video to understand these commands better:
 👉 [ https://youtu.be/e01GGTKmtpc?si=m_BvAp29Sq7hU3zN ]
+
 
 💡 These basics are the foundation of Linux, and I’m excited to keep building on this knowledge as part of my #90DaysOfDevOps journey.
