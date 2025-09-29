@@ -1,4 +1,5 @@
 Basic Linux Commands - Day 3
+
 Task 1: View the content of a file and display line numbers.
 
 ![](photo.png)
@@ -29,7 +30,7 @@ Task 7: Show the first three fruits from the file in reverse order.
 
 Task 8: Show the bottom three fruits from the file, and then sort them alphabetically.
 
-![](Images/Task08.png)
+![](Images/08Task.png)
 
 Task 9: Create another file Colors.txt, add content (one color per line), and display the content.
 
@@ -41,8 +42,8 @@ Task 10: Add content in Colors.txt (one in each line) - Red, Pink, White, Black,
 
 Task 11: Find and display the lines that are common between fruits.txt and Colors.txt.
 
-![](Images/Task11.png)
+![](Images/11Task.png)
 
 Task 12: Count the number of lines, words, and characters in both fruits.txt and Colors.txt.
 
-![](Images/Task12.png)
+![](Images/12Task.png)
