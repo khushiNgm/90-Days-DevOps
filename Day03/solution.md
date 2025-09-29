@@ -47,7 +47,6 @@ Task 11: Find and display the lines that are common between fruits.txt and Color
 Task 12: Count the number of lines, words, and characters in both fruits.txt and Colors.txt.
 ![](Images/Task12.png)
 
-<<<<<<< HEAD
-=======
 ![](Images/12Task.png)
->>>>>>> 6c16b0121fba474c873a2ef9b89265e73623d720
+
+
