@@ -1,4 +1,4 @@
-Basic Linux Commands - Day 3
+# Solutions
 
 Task 1: View the content of a file and display line numbers.
 
@@ -48,5 +48,6 @@ Task 12: Count the number of lines, words, and characters in both fruits.txt and
 ![](Images/Task12.png)
 
 ![](Images/12Task.png)
+
 
 
