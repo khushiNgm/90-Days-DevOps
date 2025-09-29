@@ -1,4 +1,4 @@
-# TOday Day 3 of #90DaysOfDevOps challenge with the #TrainWithShubham community.
+# Day 3 - DevOps TWS
 Task: What are the Linux commands to
 
 1. View the content of a file and display line numbers.
@@ -12,4 +12,5 @@ Task: What are the Linux commands to
 9. Create another file Colors.txt, add content (one color per line), and display the content.
 10. Add content in Colors.txt (one in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey. Then, prepend "Yellow" to the beginning of the file.
 10. Find and display the lines that are common between fruits.txt and Colors.txt.
+
 11. Count the number of lines, words, and characters in both fruits.txt and Colors.txt
