@@ -49,5 +49,8 @@ Task 12: Count the number of lines, words, and characters in both fruits.txt and
 
 ![](Images/12Task.png)
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> efbb120 (Day 04)
