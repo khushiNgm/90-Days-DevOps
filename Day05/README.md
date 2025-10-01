@@ -9,9 +9,9 @@ Tasks
  
 1.Create Directories Using Shell Script:
 
-  * Write a bash script createDirectories.sh that, when executed with three arguments (directory name, start number of directories, and end number of directories), creates a specified number of directories with a dynamic directory name.
-   ⚪ Example 1: When executed as ./createDirectories.sh day 1 90, it creates 90 directories as day1 day2 day3 ... day90.
-   ⚪ Example 2: When executed as ./createDirectories.sh Movie 20 50, it creates 31 directories as Movie20 Movie21 Movie22 ... Movie50.
+  * Write a bash script createDirectories.sh that, when executed with three arguments (directory name, start number of directories, and end number of directories), creates a specified number of directories with a dynamic directory name. </br>
+   ⚪ Example 1: When executed as ./createDirectories.sh day 1 90, it creates 90 directories as day1 day2 day3 ... day90. </br>
+   ⚪ Example 2: When executed as ./createDirectories.sh Movie 20 50, it creates 31 directories as Movie20 Movie21 Movie22 ... Movie50. </br>
 
 Notes: You may need to use loops or commands (or both), based on your preference. Check out this reference: Bash Scripting For Loop
 
@@ -27,5 +27,6 @@ Notes: You may need to use loops or commands (or both), based on your preference
 
   * A user is an entity in a Linux operating system that can manipulate files and perform several other operations. Each user is assigned an ID that is unique within the system. IDs 0 to 999 are assigned to system users, and local user IDs start from 1000 onwards.
   * Create 2 users and display their usernames.
+
 
 
