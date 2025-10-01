@@ -1,4 +1,4 @@
-# Today Day 5 of #90DaysOfDevOps challenge with the #TWS.
+# Day 5 of #90DaysOfDevOps challenge with the #TWS.
 Advanced Linux Shell Scripting for DevOps Engineers with User Management
 
 mkdir day{1..90}
@@ -27,6 +27,7 @@ Notes: You may need to use loops or commands (or both), based on your preference
 
   * A user is an entity in a Linux operating system that can manipulate files and perform several other operations. Each user is assigned an ID that is unique within the system. IDs 0 to 999 are assigned to system users, and local user IDs start from 1000 onwards.
   * Create 2 users and display their usernames.
+
 
 
 
