@@ -20,6 +20,6 @@ Wildcards are special characters used to perform pattern matching when working w
 
 Submission Instructions:
 
-  ■ Create a single bash script that completes all the tasks mentioned above.
-  ■ Add comments at appropriate places to explain what each part of the script does.
+  ■ Create a single bash script that completes all the tasks mentioned above.</br>
+  ■ Add comments at appropriate places to explain what each part of the script does.</br>
   ■ Ensure that your script is well-documented and easy to understand.
