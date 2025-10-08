@@ -6,9 +6,9 @@ Today's task is to create a bash script that takes a directory path as a command
 
 Additionally, the script should implement a rotation mechanism to keep only the last 3 backups. This means that if there are more than 3 backup folders, the oldest backup folders should be removed to ensure only the most recent backups are retained.
 
-<pre>
+<p>
 The script will create a timestamped backup folder inside the specified directory and copy all the files into it. It will also check for existing backup folders and remove the oldest backups to keep only the last 3 backups.
-</pre>
+</p>
 
 ## Example Usage
 Assume the script is named backup_with_rotation.sh. Here's an example of how it will look, also assuming the script is executed with the following commands on different dates:
