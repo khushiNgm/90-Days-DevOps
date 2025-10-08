@@ -15,14 +15,14 @@ The echo command is used to display messages on the terminal. Your task is to cr
 
 Answer
 
-![](Image/Task2.png)
+![](Image/Task02.png)
 
 3. Variables
 
 Variables in bash are used to store data and can be referenced by their name. Your task is to create a bash script that declares variables and assigns values to them.
 
 Answer
-![](Image/Task3.png)
+![](Image/Task03.png)
 
 4. Using Variables
 
