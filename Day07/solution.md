@@ -128,11 +128,11 @@ Answer</br>
 
 ## Answer</br>
 
- ⚪ Understanding the systemctl and service Commands
- ■ Both systemctl and service commands are used to manage system services in Linux, but they differ in terms of usage, functionality, and the system architectures they support.
- ■ systemctl Command
-    ■ systemctl is a command used to introspect and control the state of the systemd system and service manager. It is more modern and is used in systems that use systemd as their init system, which is common in many contemporary Linux distributions.</br>
-■ Examples:</br>
+ ⚪ Understanding the systemctl and service Commands </br>
+     ■ Both systemctl and service commands are used to manage system services in Linux, but they differ in terms of usage, functionality, and the system architectures they support.</br>
+      ■ systemctl Command </br>
+          ■ systemctl is a command used to introspect and control the state of the systemd system and service manager. It is more modern and is used in systems that use systemd as their init system, which is common in many contemporary Linux distributions.
+## Examples:</br>
   ■ Check the status of the Docker service:</br>
 <pre>
    sudo systemctl status docker 
@@ -170,16 +170,16 @@ Answer</br>
 
 ## Key Differences </br>
 
-■ 1 System Architecture:</br>
+1 System Architecture:</br>
   ■ systemctl works with systemd. </br>
   ■ service works with SysVinit and is compatible with systemd for backward compatibility.
 
-■ 2 Functionality:</br>
+2 Functionality:</br>
   ■ systemctl offers more functionality and control over services, including management of the service's state (start, stop, restart, reload), enabling/disabling services at boot, and querying detailed service status.</br>
   ■ service provides basic functionality for managing services, such as starting, stopping, and checking the status of services.
 
-■ 3 Syntax and Usage:</br>
-  ■ systemctl uses a more unified syntax for managing services.
+3 Syntax and Usage:</br>
+  ■ systemctl uses a more unified syntax for managing services.</br>
   ■ service has a simpler and more traditional syntax.
 
 ## Additional Tasks
