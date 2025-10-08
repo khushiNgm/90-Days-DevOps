@@ -89,20 +89,20 @@ Output (Jenkins-UI)</br>
 Answer</br>
 
 i. Introduction:</br>
- ■ Briefly introduce Docker and Jenkins.
- ■ Mention the operating systems (Ubuntu and CentOS) covered.
+  ■ Briefly introduce Docker and Jenkins.</br>
+  ■ Mention the operating systems (Ubuntu and CentOS) covered.
 
-ii. Installing Docker on Ubuntu:
- ■ List the steps as detailed above.
+ii. Installing Docker on Ubuntu:</br>
+  ■ List the steps as detailed above.</br>
 
-iii. Installing Docker on CentOS:
- ■ Provide similar steps adjusted for CentOS.
+iii. Installing Docker on CentOS:</br>
+  ■ Provide similar steps adjusted for CentOS.</br>
 
-iv. Installing Jenkins on Ubuntu:
- ■ List the steps as detailed above.
+iv. Installing Jenkins on Ubuntu:</br>
+  ■ List the steps as detailed above.</br>
 
-v. Installing Jenkins on CentOS:
-■ Provide similar steps adjusted for CentOS.
+v. Installing Jenkins on CentOS:</br>
+  ■ Provide similar steps adjusted for CentOS.</br>
 
 ## Systemctl and Systemd
 Systemctl is used to examine and control the state of the “systemd” system and service manager. Systemd is a system and service manager for Unix-like operating systems (most distributions, but not all).</br>
