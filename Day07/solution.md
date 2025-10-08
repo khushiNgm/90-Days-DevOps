@@ -9,47 +9,71 @@
 Answer</br>
 ⚪ First-Installing Docker</br>
     -> Update the package list and install required packages:</br>
+   <pre>
    sudo apt update</br>
    sudo apt install apt-transport-https ca-certificates curl software-properties-common 
-
+   </pre>
 ⚪ Add Docker’s official GPG key:</br>
-   curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -          </br>
+   <pre>
+   curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -      
+   </pre>    
 
 ⚪ Add the Docker APT repository: </br>
-   sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"</br>
+   <pre>
+   sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" '
+   </pre> 
 
 ⚪ Update the package list again:</br>
-   sudo apt update</br>
+  <pre>
+   sudo apt update
+  </pre>
 
 ⚪ Install Docker:</br>
+  <pre>
    sudo apt install docker-ce</br>
+  </pre>
 
 ⚪ Check Docker installation:</br>
-   sudo systemctl status docker</br>
+  <pre>
+   sudo systemctl status docker
+  </pre>
 
 ⚪ Installing Jenkins</br>
   -> Add the Jenkins repository key to the system:</br>
-   curl -fsSL https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -</br>
+  <pre>
+   curl -fsSL https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -
+  </pre>
 
 ⚪ Add the Jenkins repository:</br>
-   sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'</br>
+  <pre>
+   sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'</pre>
 
 ⚪ Update the package list:</br>
-   sudo apt update</br>
+<pre>
+   sudo apt update
+</pre>
 
 ⚪ Install Jenkins:</br>
-   sudo apt install jenkins</br>
+<pre>
+   sudo apt install jenkins
+</pre>
 
 ⚪ Start Jenkins:</br>
+<pre>
    sudo systemctl start jenkins
+</pre>
 
 ## Note:</br>
 
  -> First, check whether JAVA is installed or not.</br>
-   java -version</br>
+  <pre>
+   java -version
+  </pre>
 
  -> If you have not installed</br>
-   sudo apt install default-jre</br>
+ <pre>
+   sudo apt install default-jre
+ </pre>
 
 ## Output image</br>
 
@@ -58,6 +82,7 @@ Output (Jenkins-UI) image</br>
 Write a Blog or Article: </br>
 
 Write a small blog or article on how to install these tools using package managers on Ubuntu and CentOS.
+
 Answer</br>
 
 Introduction:</br>
@@ -101,13 +126,21 @@ systemctl is a command used to introspect and control the state of the systemd s
 
 Examples:</br>
 Check the status of the Docker service:</br>
-   sudo systemctl status docker </br>   
+<pre>
+   sudo systemctl status docker 
+</pre>   
 Start the Jenkins service:</br>
-   sudo systemctl start jenkins </br>
-Stop the Docker service:</br>
-   sudo systemctl stop docker</br>
-Enable the Jenkins service to start at boot:</br>
-   sudo systemctl enable jenkins</br>
+<pre>
+   sudo systemctl start jenkins 
+</pre>
+Stop the Docker service:
+<pre>
+   sudo systemctl stop docker
+</pre>
+Enable the Jenkins service to start at boot:
+<pre>
+   sudo systemctl enable jenkins
+</pre>
  
 service Command</br>
 'service' is a command that works with the older 'init' systems (like SysVinit). It provides a way to start, stop, and check the status of services. While it is still available on systems using 'systemd' for backward compatibility, its usage is generally discouraged in favor of 'systemctl'.</br>
@@ -115,11 +148,17 @@ service Command</br>
 Examples:</br>
 
 1) Check the status of the Docker service:</br>
-   sudo service docker status    
+<pre>
+   sudo service docker status 
+</pre>   
 2) Start the Jenkins service:</br>
+<pre>
    sudo service jenkins start
+</pre>
 3) Stop the Docker service:</br>
+<pre>
    sudo service docker stop
+</pre>
 
 ## Key Differences </br>
 
