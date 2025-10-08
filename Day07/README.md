@@ -15,10 +15,10 @@ Package managers differ based on the packaging system but the same packaging sys
 For example, RPM has Yum and DNF package managers. For DEB, you have apt-get, aptitude command line-based package managers.
 
 ## Tasks
-1. Install Docker and Jenkins:
-⚪ Install Docker and Jenkins on your system from your terminal using package managers.
+1. Install Docker and Jenkins:</br>
+⚪ Install Docker and Jenkins on your system from your terminal using package managers.</br>
 
-2. Write a Blog or Article:
+2. Write a Blog or Article:</br>
 ⚪ Write a small blog or article on how to install these tools using package managers on Ubuntu and CentOS.
 
 Systemctl and Systemd
@@ -27,24 +27,24 @@ Systemctl is used to examine and control the state of the “systemd” system a
 
 ## Tasks
 
-1. Check Docker Service Status:
+1. Check Docker Service Status:</br>
 
 ⚪ Check the status of the Docker service on your system (ensure you have completed the installation tasks above).
 
-2. Manage Jenkins Service:
+2. Manage Jenkins Service:</br>
 ⚪ Stop the Jenkins service and post before and after screenshots.
 
-3. Read About Systemctl vs. Service:
+3. Read About Systemctl vs. Service:</br>
 
-⚪ Read about the differences between the systemctl and service commands.
+⚪ Read about the differences between the systemctl and service commands.</br>
 ⚪ Example: systemctl status docker vs. service docker status.
 
 ## Additional Tasks
-4. Automate Service Management:
+4. Automate Service Management:</br>
 ⚪ Write a script to automate the starting and stopping of Docker and Jenkins services.
 
-5. Enable and Disable Services:
+5. Enable and Disable Services:</br>
 ⚪ Use systemctl to enable Docker to start on boot and disable Jenkins from starting on boot.
 
-6. Analyze Logs:
+6. Analyze Logs:</br>
 ⚪ Use journalctl to analyze the logs of the Docker and Jenkins services. 
