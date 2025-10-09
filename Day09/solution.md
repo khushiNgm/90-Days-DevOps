@@ -15,7 +15,7 @@ The script will create a timestamped backup folder inside the specified director
 Answer
 
 Create a Folder And Make Some File
-![](Images/task01.png)
+![](Images/task1.png)
 
 Note:
 First, check whether zip is installed or not.
@@ -30,7 +30,7 @@ If you have not installed
 
 Crontab Job Scheduling:
 
-![](Images/task02.png)
+![](Images/task2.png)
 
 Auto scheduling through crontab job scheduling:
 <pre>
@@ -39,9 +39,9 @@ Auto scheduling through crontab job scheduling:
 
 It will take a backup every hour, and the oldest backups will be deleted, leaving only the latest three backups visible:
 
-![](Images/task03.png)
+![](Images/task3.png)
 
 Bash Script:
-![](Images/task04.png)
+![](Images/task4.png)
 
 
