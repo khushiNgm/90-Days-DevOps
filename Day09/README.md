@@ -58,5 +58,4 @@ file2.txt
 
 In this example, the script creates backup folders with timestamped names and retains only the last 3 backups while removing the older backups.
 
-# Submission Instructions
-Create a bash script named backup_with_rotation.sh that implements the Directory Backup with Rotation as described in the challenge.
+
