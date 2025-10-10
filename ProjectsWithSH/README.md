@@ -28,7 +28,7 @@ README.md
 - Docker permission denied: run `newgrp docker` or log out/in.
 - Port 80 conflict: stop Apache using `sudo systemctl stop apache2`.## 
 
-✅🎉 Deployment Status 🎉✅
+# ✅🎉 Deployment Status 🎉✅
 
 The ToDo App has been **successfully deployed** and is running on port `8080`.
 
