@@ -1,24 +1,24 @@
-# ToDo App Deployment Script
+# ToDo App Deployment Script🚀
 This project contains a Bash script `Project1.sh` to deploy a ToDo App using Docker and Nginx on an Ubuntu server.
 
-## Project Structure
+## 📁 Project Structure
 Project1.sh
 ToDo/ (cloned repository)
 Dockerfile
 README.md
 
-![](Task03.png)
+<!-- ![](Task03.png) -->
 
-## Requirements
+## 🛠 Requirements
 | Tool | Version | Purpose |
 |------|--------|---------|
-| Docker | Latest | Containerization |
-| Nginx | Latest | Web server |
-| Ubuntu | 22.04+ | OS |
+|🐳 Docker | Latest | Containerization |
+|🌐 Nginx | Latest | Web server |
+| 💻 Ubuntu | 22.04+ | OS |
+<!-- 
+![](Task02.png) -->
 
-![](Task02.png)
-
-## How to Use
+## ⚡ How to Use
 1. Make the script executable:
    chmod +x Project1.sh
 2. Run the script:
@@ -28,9 +28,9 @@ README.md
 - Docker permission denied: run `newgrp docker` or log out/in.
 - Port 80 conflict: stop Apache using `sudo systemctl stop apache2`.## 
 
-## Deployment Status
+✅🎉 Deployment Status 🎉✅
 
-✅ The ToDo App has been **successfully deployed** and is running on port `8080`.
+The ToDo App has been **successfully deployed** and is running on port `8080`.
 
 ![](Task01.png)
 
