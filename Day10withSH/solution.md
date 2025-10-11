@@ -13,13 +13,13 @@ Write a Bash script that automates the process of analyzing log files and genera
 
 4. Top Error Messages: Identify the top 5 most common error messages and display them along with their occurrence count.
 
-5. Summary Report: Generate a summary report in a separate text file. The report should include:
+5. Summary Report: Generate a summary report in a separate text file. The report should include:</br>
 
-■ Date of analysis
-■ Log file name
-■ Total lines processed
-■ Total error count
-■ Top 5 error messages with their occurrence count
+■ Date of analysis</br>
+■ Log file name</br>
+■ Total lines processed</br>
+■ Total error count</br>
+■ Top 5 error messages with their occurrence count</br>
 ■ List of critical events with line numbers
 
 ## Answer
