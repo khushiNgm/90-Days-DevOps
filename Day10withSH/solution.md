@@ -1,6 +1,6 @@
 # Day 10 Answers: Log Analyzer and Report Generator
 ## Scenario
-You are a system administrator responsible for managing a network of servers. Every day, a log file is generated on each server containing important system events and error messages. As part of your daily tasks, you need to analyze these log files, identify specific events, and generate a summary report.
+I am a system administrator responsible for managing a network of servers. Every day, a log file is generated on each server containing important system events and error messages. As part of your daily tasks, you need to analyze these log files, identify specific events, and generate a summary report.
 
 ## Task
 Write a Bash script that automates the process of analyzing log files and generating a daily summary report. The script should perform the following steps:
@@ -24,13 +24,13 @@ Write a Bash script that automates the process of analyzing log files and genera
 
 ## Answer
 
-⚪ First created a folder and then a log file.
+## ⚪ First created a folder and then a log file.
 ![](Images/task1.png)
 
-⚪ Bash Code for Reference.
+## ⚪ Bash Code for Reference.
 ![](Images/task2.png)
 
-⚪ Output
+## ⚪ Output
 ![](Images/task3.png)
 
 Optional Enhancement: Add a feature to automatically archive or move processed log files to a designated directory after analysis.
