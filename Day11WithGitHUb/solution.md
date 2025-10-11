@@ -14,7 +14,7 @@ Git is a distributed version control system developed by Linus Torvalds in 2005.
 ➡️ Branches: A repository allows you to create Branches and work on new features and fixes. For example, you can have a "main" branch for stable code and a "feature" branch for new features you're developing.</br>
 ➡️ Merging: Once you are done with the branches you have made, you can merge those branches into main branch. This adds the changes you have made in the rest of the project.</br>
 ➡️ Cloning: Cloning is a process of making a complete copy of Git repository. It's like copying the entire project from central location ( like website) to your own computer.</br>
-➡️ Backup:: Acts as a backup of your codebase.</br>
+
 
 
 ## 2. What is the difference between Git and GitHub?
