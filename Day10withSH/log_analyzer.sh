@@ -3,24 +3,6 @@
 this is a code for perform log anylizer 
 README
 
-fucntion take_path() {
-    log_path=read path
-    echo "path is : ${log_path}"
-}
-
-fucntion anlysis_file() {
-Error=0
-if []{
-    Error=Error+1
-}
-}
-
-fucntion print_word(){
-    if[CRITICAL eq ]{
-        echo "voline + line number"
-    }
-}
-
 # Function to diplay usage
 usage() {
     echo "Usage: $0 /root/logs/day10.log"

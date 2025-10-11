@@ -25,12 +25,12 @@ Write a Bash script that automates the process of analyzing log files and genera
 ## Answer
 
 ⚪ First created a folder and then a log file.
-image
+![](Images/task1.png)
 
 ⚪ Bash Code for Reference.
-image
+![](Images/task2.png)
 
 ⚪ Output
-image
+![](Images/task3.png)
 
 Optional Enhancement: Add a feature to automatically archive or move processed log files to a designated directory after analysis.
