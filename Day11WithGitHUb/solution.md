@@ -5,16 +5,16 @@ Git is a distributed version control system developed by Linus Torvalds in 2005.
 
 ## Importance of Git:
 
-■ Version Control: Keeps track of changes, allowing you to revert to previous versions if needed.</br>
-■ Collaboration: Multiple developers can work on the same project simultaneously.</br>
-■ Repositories: A Git repository (or repo) is like a project's central hub where everything related to your work is stored and managed. There are two main types:</br>
+➡️ Version Control: Keeps track of changes, allowing you to revert to previous versions if needed.</br>
+➡️ Collaboration: Multiple developers can work on the same project simultaneously.</br>
+➡️ Repositories: A Git repository (or repo) is like a project's central hub where everything related to your work is stored and managed. There are two main types:</br>
  i) Local Repository: This is a copy of the repository which is stored in your computer. You can work on your project and make changes here.</br>
  ii) Remote Repository: This is stored on a server, like GitHub, where you and others can share and work on a project.</br>
-■ Commits: Every time you make changes and save them in Git, these are called commits. The repository keeps track of all the commits you have made.</br>
-■ Branches: A repository allows you to create Branches and work on new features and fixes. For example, you can have a "main" branch for stable code and a "feature" branch for new features you're developing.</br>
-■ Merging: Once you are done with the branches you have made, you can merge those branches into main branch. This adds the changes you have made in the rest of the project.</br>
-■ Cloning: Cloning is a process of making a complete copy of Git repository. It's like copying the entire project from central location ( like website) to your own computer.</br>
-■ Backup:: Acts as a backup of your codebase.</br>
+➡️ Commits: Every time you make changes and save them in Git, these are called commits. The repository keeps track of all the commits you have made.</br>
+➡️ Branches: A repository allows you to create Branches and work on new features and fixes. For example, you can have a "main" branch for stable code and a "feature" branch for new features you're developing.</br>
+➡️ Merging: Once you are done with the branches you have made, you can merge those branches into main branch. This adds the changes you have made in the rest of the project.</br>
+➡️ Cloning: Cloning is a process of making a complete copy of Git repository. It's like copying the entire project from central location ( like website) to your own computer.</br>
+➡️ Backup:: Acts as a backup of your codebase.</br>
 
 
 ## 2. What is the difference between Git and GitHub?
@@ -56,21 +56,21 @@ Git is a distributed version control system developed by Linus Torvalds in 2005.
 
 ## 5.How do you create a new repository on GitHub?
 
-i. Go to GitHub.
-ii. Click on the + icon in the top right corner.
-iii. Select New repository.
-iv. Enter a repository name (e.g., "DevOps").
-v. Click Create repository.
+i. Go to GitHub.</br>
+ii. Click on the + icon in the top right corner.</br>
+iii. Select New repository.</br>
+iv. Enter a repository name (e.g., "DevOps").</br>
+v. Click Create repository.</br>
 
 # Tasks with Answers
 
-Task 1:
+Task 1:</br>
 ⚪ Set your user name and email address, which will be associated with your commits.
 Answer
 
 image
 
-Task 2:
+Task 2:</br>
 ⚪ Create a repository named "DevOps" on GitHub.
 Answer
 

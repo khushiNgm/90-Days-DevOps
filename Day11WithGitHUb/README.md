@@ -10,11 +10,11 @@
 
 # Tasks
 
-## Task 1:
-■ Set your user name and email address, which will be associated with your commits.
+## task 1: 
+Set your user name and email address, which will be associated with your commits.
 
-## Task 2:
-■ Create a repository named "DevOps" on GitHub.
-■ Connect your local repository to the repository on GitHub.
-■ Create a new file in Devops/Git/Day-02.txt & add some content to it.
+## task 2:
+■ Create a repository named "DevOps" on GitHub.</br>
+■ Connect your local repository to the repository on GitHub.</br>
+■ Create a new file in Devops/Git/Day-02.txt & add some content to it.</br>
 ■ Push your local commits to the repository on GitHub.
