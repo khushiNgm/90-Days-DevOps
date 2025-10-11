@@ -68,34 +68,26 @@ Task 1:</br>
 ⚪ Set your user name and email address, which will be associated with your commits.
 Answer
 
-image
+![](Images/Task01.png)
 
 Task 2:</br>
 ⚪ Create a repository named "DevOps" on GitHub.
-Answer
-
-image
+![](Images/Task02.png)
 
 ⚪ Connect your local repository to the repository on GitHub.
 Answer
-
-image
+![](Images/Task03.png)
 
 ⚪ Create a new file in Devops/Git/Day-12.txt & add some content to it.
 Answer
-
-image
+<pre> mkdir -p Devops/git </pre>
+<pre> echo "This is Day 12 content" > Devops/git/Day-12.txt</pre>
+<pre>git add Devops/Git/Day-12.txt</pre>
+<pre>git commit -m "Add Day-12.txt with some content "</pre>
 
 ⚪ Push your local commits to the repository on GitHub.
 Answer
+<pre>git push origin main</pre>
 
-image
 
-⚪ After that if you check it on GitHub then it's output will look like this
-
-image
-
-image
-
-image
 
