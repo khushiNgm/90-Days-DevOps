@@ -64,31 +64,29 @@ v. Click Create repository.</br>
 
 # Tasks with Answers
 
-Task 1:</br>
-⚪ Set your user name and email address, which will be associated with your commits.
-Answer
+## Task 1: Set your user name and email address, which will be associated with your commits.
+
 <pre>git config --global user.email "nigamkhushi731@gmail.com"</pre>
 <pre>git config --global user.name "khushiN" </pre>
 <pre>git config --list </pre>
 ![](Images/Task01.png)
 
-Task 2:</br>
-⚪ Create a repository named "DevOps" on GitHub.
+## Task 2: Create a repository named "DevOps" on GitHub.
 ![](Images/Task02.png)
 
-⚪ Connect your local repository to the repository on GitHub.
+## Connect your local repository to the repository on GitHub.
 Answer
 ![](Images/Task03.png)
 
-⚪ Create a new file in Devops/Git/Day-12.txt & add some content to it.
-Answer
+## Create a new file in Devops/Git/Day-12.txt & add some content to it.
+
 <pre> mkdir -p Devops/git </pre>
 <pre> echo "This is Day 12 content" > Devops/git/Day-12.txt</pre>
 <pre>git add Devops/Git/Day-12.txt</pre>
 <pre>git commit -m "Add Day-12.txt with some content "</pre>
 
-⚪ Push your local commits to the repository on GitHub.
-Answer
+## Push your local commits to the repository on GitHub.
+
 <pre>git push origin main</pre>
 
 
