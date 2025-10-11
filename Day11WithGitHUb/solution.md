@@ -67,7 +67,9 @@ v. Click Create repository.</br>
 Task 1:</br>
 ⚪ Set your user name and email address, which will be associated with your commits.
 Answer
-
+<pre>git config --global user.email "nigamkhushi731@gmail.com"</pre>
+<pre>git config --global user.name "khushiN" </pre>
+<pre>git config --list </pre>
 ![](Images/Task01.png)
 
 Task 2:</br>
