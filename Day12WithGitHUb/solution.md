@@ -116,8 +116,6 @@ Answer
 <pre>
 git rebase master
 </pre>
-Answer
+Answer</br>
 ![](Images/Task12.png)
 
-■ During a rebase, Git re-applies commits from the current branch (in this case, dev) onto the target branch (master). This results in a linear commit history.
-LinkedIn
