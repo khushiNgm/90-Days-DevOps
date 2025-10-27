@@ -21,7 +21,7 @@ For a better understanding of Git Rebase and Merge, check out this article.
 
 ## Task 1: Feature Development with Branches
 
-1. Create a Branch and Add a Feature:
+1. Create a Branch and Add a Feature:</br>
  ■ Add a text file called version01.txt inside the Devops/Git/ directory with “This is the first feature of our application” written inside.
 
 Answer

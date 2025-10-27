@@ -87,8 +87,5 @@ git rebase master
 </pre>
 
 Note:
-Following best practices for branching is important. Check out these best practices that the industry follows.
-
-Simple Reference on branching: video
-
-Advanced Reference on branching: video
+Simple Reference on branching: [🎥 Video](https://www.youtube.com/watch?v=NzjK9beT_CY)  
+Advanced Reference on branching: [🎥 Video](https://www.youtube.com/watch?v=7xhkEQS3dXw)
