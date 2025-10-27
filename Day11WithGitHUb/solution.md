@@ -1,4 +1,4 @@
-# Day 11 Answers: Deep Dive in Git & GitHub for DevOps Engineers ********************
+# Day 11 Answers: Deep Dive in Git & GitHub for DevOps Engineers 
 
 ## 1. What is Git and why is it important?
 Git is a distributed version control system developed by Linus Torvalds in 2005. It allows developers to track changes, collaborate, and manage code versions efficiently.
