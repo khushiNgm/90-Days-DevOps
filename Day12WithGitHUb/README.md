@@ -86,6 +86,6 @@ git merge dev
 git rebase master
 </pre>
 
-Note:
+## Note:</br>
 Simple Reference on branching: [🎥 Video](https://www.youtube.com/watch?v=NzjK9beT_CY)  
 Advanced Reference on branching: [🎥 Video](https://www.youtube.com/watch?v=7xhkEQS3dXw)
