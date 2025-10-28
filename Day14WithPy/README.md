@@ -21,8 +21,8 @@ Ubuntu: apt-get install python3.6
 ## 🎥 Learning Resource:
 
 I learned Python basics from this playlist —</br>
-(playlist1 )[ https://www.youtube.com/watch?v=abPgj_3hzVY&list=PLlfy9GnSVerS_L5z0COaF7rsbgWmJXTOM ]</br>
-(playlist2 )[ https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&index=1 ]</br>
+[Playlist1](https://www.youtube.com/watch?v=abPgj_3hzVY&list=PLlfy9GnSVerS_L5z0COaF7rsbgWmJXTOM) </br>
+[playlist2](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&index=1)</br>
 
 📂 GitHub Repository:</br>
-You can check my Python practice and notes here —(GitRepo)[ https://github.com/khushiNgm/PythonPractice ]
+You can check my Python practice and notes here —[GitRepo](https://github.com/khushiNgm/PythonPractice) s
